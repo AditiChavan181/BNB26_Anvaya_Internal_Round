@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+mysql-connector-python
+python-dotenv
+python-multipart
+c2pa-python
